@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=CaminoEnMatriz
+comment0.text=\r\n\ C\u00F3digo\ base\ para\ trabajar\ en\ el\ ejercicio\ de\ la\ pr\u00E1ctica\ de\ examen\ relacionado\ con\ encontrar\ recursivamente\ el\ camino\ m\u00E1s\ largo\r\n\ de\ n\u00FAmeros\ en\ orden\ creciente\ que\ sean\ vecinos.\ Imprime\ la\ matriz\ en\ la\ l\u00EDnea\ de\ comandos\ y\ deja\ pendiente\ dos\ ejercicios,\ uno\ para\r\n\ listar\ todos\ los\ caminos\ de\ longitud\ n\ (que\ no\ es\ el\ ejercicio\ original)\ y\ otro\ para\ encontrar\ el\ camino\ m\u00E1s\ largo.\r\n
+comment1.params=filas\ columnas
+comment1.target=CaminoEnMatriz(int,\ int)
+comment2.params=
+comment2.target=void\ mostrarOpciones()
+comment3.params=longitud
+comment3.target=java.lang.String\ encontrarCaminos(int)
+comment3.text=\r\n\ \ \ \ Completar\ este\ m\u00E9todo\ para\ la\ opci\u00F3n\ 1\ del\ men\u00FA\:\ listar\ todos\ los\ caminos\r\n\ \ \ \ de\ la\ longitud\ recibida\ por\ par\u00E1metro\r\n
+comment4.params=fila\ columna\ camino\ longitudActual\ longitudObjetivo
+comment4.target=void\ buscarCaminos(int,\ int,\ java.lang.String,\ int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ encontrarCaminoMasLargo()
+comment5.text=\r\n\ \ \ \ Completar\ este\ m\u00E9todo\ para\ encontrar\ el\ camino\ m\u00E1s\ largo\ en\ toda\ la\ matriz.\ \ \ \r\n
+comment6.params=
+comment6.target=void\ inicializarMatriz()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

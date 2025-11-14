@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EntradaSalida
+comment0.text=\r\n\ Esta\ clase\ se\ encarga\ de\ la\ interacci\u00F3n\ con\ el\ usuario\ v\u00EDa\ pantalla.\ Es\ capaz\ de\r\n\ solicitar\ un\ entero,\ un\ decimal\ o\ una\ hilera.\ Tambi\u00E9n\ es\ capaz\ de\ mostrar\ un\ mensaje\r\n\ en\ pantalla,\ siempre\ usando\ los\ m\u00E9todos\ de\ JOptionPane.\r\n
+comment1.params=mensajeParametro
+comment1.target=int\ solicitarEntero(java.lang.String)
+comment2.params=mensajeParametro
+comment2.target=double\ solicitarDecimal(java.lang.String)
+comment3.params=mensajeParametro
+comment3.target=java.lang.String\ solicitarHilera(java.lang.String)
+comment4.params=mensajeParametro
+comment4.target=void\ mostrarMensaje(java.lang.String)
+numComments=5
